@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suraniyakunal
 - 👀 I’m interested in Collaborations
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning MERN, DevOps, Dotnet
 - 💞️ I’m looking to collaborate on Kubernetes
 - 📫 How to reach me kunalsuraniya123@gmail.com
   
