@@ -2,8 +2,9 @@
 <h3 align="center">Full Stack Developer | MERN Stack Enthusiast | DevOps Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFAB&center=true&vCenter=true&width=440&lines=Building+the+Web+one+line+at+a+time!;MERN+Stack+%7C+DevOps+%7C+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFAB&center=true&vCenter=true&width=1000&lines=Building+the+Web+one+line+at+a+time!;MERN+Stack+%7C+DevOps+%7C+Open+Source+Contributor" alt="Typing SVG" />
 </p>
+
 
 ---
 
