@@ -10,14 +10,16 @@
 
 ### 🚀 About Me
 
-- 🌱 Currently deep-diving into **Cloud-Native Development** and **Kubernetes**
-- 💼 Looking for opportunities in **Full Stack Development** and **DevOps Engineering**
-- 🧠 Constantly learning and contributing to open source projects
+- 🎓 MCA Graduate (2025) · AKTU University
+- 💼 Seeking entry-level / internship roles in **Full Stack Development**
+- 🌱 Currently exploring **Cloud-Native Development** and **Kubernetes**
 - 🛠️ Tech I work with:
-  - **Frontend**: React.js, Tailwind CSS, Redux
-  - **Backend**: Node.js, Express.js, MongoDB
-  - **DevOps**: Docker, GitHub Actions, AWS (EC2, S3), CI/CD, Nginx
-- 🧩 Always up for solving real-world problems with scalable solutions
+  - **Frontend**: React.js, Next.js, TypeScript, Tailwind CSS, Vite, React Query
+  - **Backend**: Node.js, Express.js, REST APIs, Socket.io, WebRTC, Mediasoup SFU
+  - **Database**: MongoDB, MySQL
+  - **DevOps**: Docker, Linux, Git, CI/CD, Vercel
+- 🧩 Passionate about real-time systems, scalable backend architecture, and clean UIs
+- 🔨 Currently building [Talker](https://github.com/suraniyakunal/Talker) — a real-time voice & social platform
 
 ---
 ### 🔨 Featured Projects
