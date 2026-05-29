@@ -20,6 +20,14 @@
 - 🧩 Always up for solving real-world problems with scalable solutions
 
 ---
+### 🔨 Featured Projects
+
+| Project | Description | Stack | Links |
+|---|---|---|---|
+| **Talker** | Real-time voice + social platform. Mediasoup SFU handles 100+ concurrent voice room users. Socket.io chat, social feed, JWT auth, Docker. | React · Node.js · MongoDB · WebRTC · TypeScript | [Live](talker-one.vercel.app) · [GitHub](https://github.com/suraniyakunal/Talker) |
+| **ReachFlow** | Influencer discovery & outreach dashboard. Replaces spreadsheets with a structured campaign pipeline: discover → shortlist → outreach → track. | React · Node.js · Express · MongoDB | [GitHub](https://github.com/suraniyakunal/ReachFlow) |
+
+---
 
 ### 🧰 Tech Stack
 
