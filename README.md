@@ -12,7 +12,6 @@
 
 - 🎓 MCA Graduate (2025) · AKTU University
 - 💼 Seeking entry-level / internship roles in **Full Stack Development**
-- 🌱 Currently exploring **Cloud-Native Development** and **Kubernetes**
 - 🛠️ Tech I work with:
   - **Frontend**: React.js, Next.js, TypeScript, Tailwind CSS, Vite, React Query
   - **Backend**: Node.js, Express.js, REST APIs, Socket.io, WebRTC, Mediasoup SFU
@@ -60,7 +59,7 @@
   <a href="mailto:kunalsuraniya123@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://portfolio.yourdomain.com" target="_blank">
+  <a href="https://kunalsuraniya.vercel.app" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
