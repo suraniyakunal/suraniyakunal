@@ -1,4 +1,4 @@
-# Hi, I'm Kunal Suraniya 👋
+# Hi, I'm Kunal Suraniya 
 
 **AI Engineer | Backend Engineer | Full Stack Developer**
 
