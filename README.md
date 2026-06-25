@@ -1,72 +1,83 @@
-<h1 align="center">Hi 👋, I'm Kunal</h1>
-<h3 align="center">Full Stack Developer | MERN Stack Enthusiast | DevOps Explorer</h3>
+# Hi, I'm Kunal Suraniya 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFAB&center=true&vCenter=true&width=1000&lines=Building+the+Websites!;MERN+Stack+%7C+DevOps+%7C+Open+Source+Contributor" alt="Typing SVG" />
-</p>
+**AI Engineer | Backend Engineer | Full Stack Developer**
 
+I build intelligent applications powered by Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and AI Agents, combining modern AI with scalable backend systems and production-ready software engineering.
 
----
-
-### 🚀 About Me
-
-- 🎓 MCA Graduate (2025) · AKTU University
-- 💼 Seeking entry-level / internship roles in **Full Stack Development**
-- 🛠️ Tech I work with:
-  - **Frontend**: React.js, Next.js, TypeScript, Tailwind CSS, Vite, React Query
-  - **Backend**: Node.js, Express.js, REST APIs, Socket.io, WebRTC, Mediasoup SFU
-  - **Database**: MongoDB, MySQL
-  - **DevOps**: Docker, Linux, Git, CI/CD, Vercel
-- 🧩 Passionate about real-time systems, scalable backend architecture, and clean UIs
-- 🔨 Currently building [Talker](https://github.com/suraniyakunal/Talker) — a real-time voice & social platform
-
----
-### 🔨 Featured Projects
-
-| Project | Description | Stack | Links |
-|---|---|---|---|
-| **Talker** | Real-time voice + social platform. Mediasoup SFU handles 100+ concurrent voice room users. Socket.io chat, social feed, JWT auth, Docker. | React · Node.js · MongoDB · WebRTC · TypeScript | [Live](talker-one.vercel.app) · [GitHub](https://github.com/suraniyakunal/Talker) |
-| **ReachFlow** | Influencer discovery & outreach dashboard. Replaces spreadsheets with a structured campaign pipeline: discover → shortlist → outreach → track. | React · Node.js · Express · MongoDB | [GitHub](https://github.com/suraniyakunal/ReachFlow) |
+My background in full-stack development and real-time systems enables me to design AI applications that are reliable, scalable, and built for real-world use.
 
 ---
 
-### 🧰 Tech Stack
+## Current Focus
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,html,css,tailwind,docker,git,github,aws,linux,bash,vscode" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suraniyakunal&show_icons=true&theme=tokyonight" alt="kunal stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=suraniyakunal&theme=tokyonight" alt="kunal streak"/>
-</p>
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* AI Agents
+* Prompt Engineering
+* FastAPI
+* Backend Engineering
+* System Design
+* Production AI Applications
 
 ---
 
-### 🌐 Let's Connect!
+## Tech Stack
 
-<p>
-  <a href="https://www.linkedin.com/in/kunalsuraniya" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:kunalsuraniya123@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://kunalsuraniya.vercel.app" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+**AI Engineering**
+
+Python • FastAPI • LLMs • LangChain • LangGraph • RAG • Vector Databases • Embeddings
+
+**Backend**
+
+Node.js • Express.js • REST APIs • Socket.io • MongoDB • PostgreSQL
+
+**Frontend**
+
+React • TypeScript • Next.js
+
+**DevOps**
+
+Docker • Linux • GitHub Actions • CI/CD
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFAB&height=100&section=footer"/>
-</p>
+## Featured Projects
 
+### Recruiter Intelligence *(In Progress)*
+
+An AI-powered recruiting platform that automates candidate sourcing, resume analysis, technical interviews, AI scoring, and recruiter workflows using LLMs, AI Agents, Retrieval-Augmented Generation (RAG), and modern backend architecture.
+
+---
+
+### Talker
+
+Production-grade real-time voice and social platform built with Mediasoup SFU architecture.
+
+* 100+ concurrent participants
+* Real-time voice rooms
+* Real-time messaging
+* JWT Authentication
+* Dockerized deployment
+* CI/CD
+
+---
+
+### ReachFlow
+
+Influencer discovery and outreach platform that centralizes campaign management and communication workflows through a scalable backend architecture.
+
+---
+
+## Currently Learning
+
+I'm documenting my AI Engineering journey through open-source projects, technical notes, and production-focused experiments as I work toward building reliable AI systems.
+
+---
+
+## Let's Connect
+
+💼 LinkedIn: https://linkedin.com/in/kunalsuraniya
+
+🌐 Portfolio: https://your-portfolio-link
+
+📧 Email: [kunalsuraniya123@gmail.com](mailto:kunalsuraniya123@gmail.com)
