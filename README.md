@@ -78,6 +78,6 @@ I'm documenting my AI Engineering journey through open-source projects, technica
 
 💼 LinkedIn: https://linkedin.com/in/kunalsuraniya
 
-🌐 Portfolio: https://your-portfolio-link
+🌐 Portfolio: https://kunalsuraniya.vercel.app
 
 📧 Email: [kunalsuraniya123@gmail.com](mailto:kunalsuraniya123@gmail.com)
